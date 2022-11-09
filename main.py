@@ -1,9 +1,3 @@
-'''
-Morgan Purcell & Sabby Macedo
-Program to find the optimal route between two missouri citites using the A* search algorithm
-October 27th 2022
-'''
-
 # dictionary to hold heristic values
 heuristic_map = {
         "St. Joseph": {"St. Joseph": 0, "Kansas City": 56, "Joplin": 205, "Springfield": 221, "Rolla": 277, "Jefferson City": 215, "Columbia": 181, "Moberly": 157, "Hannibal": 194, "Troy": 254, "St. Charles": 286, "St. Louis": 303, "Lebanon": 237},
