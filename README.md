@@ -1,1 +1,1 @@
-A program that utilizes the A* search algorithm to provide the user with the optimum route between two Missouri cities. 
+A program that helps users plan efficient and shortest routes between Missouri cities using the A* search algorithm. The program also visualizes the routes on an interactive map using the geopy and folium libraries.
